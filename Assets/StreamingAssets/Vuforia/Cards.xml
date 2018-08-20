@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="score2" size="1.000000 0.501805" />
+    <ImageTarget name="gameScore" size="1.000000 0.379617" />
+    <ImageTarget name="gameMat" size="1.000000 0.794841" />
+    <ImageTarget name="egg1" size="1.000000 1.289007" />
+    <ImageTarget name="IMG_5401" size="1.000000 1.408025" />
+    <ImageTarget name="deathCard" size="1.000000 1.385283" />
+    <ImageTarget name="pirateCard" size="1.000000 1.410386" />
+    <ImageTarget name="wingsCard" size="1.000000 1.396461" />
+  </Tracking>
+</QCARConfig>
